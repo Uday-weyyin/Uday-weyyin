@@ -1,8 +1,20 @@
-<h1 align="left">Hello 👋, I'm Uday Sharma</h1>
+<div align="center">
+  <img height="496" src="https://iili.io/Jz3rzqN.gif"  />
+</div>
 
 ###
 
-<p align="left">🚀 Aspiring Full-Stack Web Developer | B.Tech CSE Final Year</p>
+<h1 align="center">Hello👋, I'm Uday Sharma</h1>
+
+###
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=25&duration=4000&pause=3000&color=00A000&background=FFFFFF00&width=1000&center=true&vCenter=true&lines=🚀+Aspiring+Full-Stack+Web+Developer+%7C%7C+B.Tech+CSE+Final+Year" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left"></p>
 
 ###
 
@@ -54,6 +66,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Uday-weyyin/Uday-weyyin/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-weyyin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Uday-weyyin&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
 
 ###
