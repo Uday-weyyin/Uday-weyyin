@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://iili.io/Jz3rzqN.gif" />
+  <img height="335" src="https://iili.io/Jz3rzqN.gif" />
 </div>
 
 ###  
@@ -16,11 +16,11 @@
 
 ###  
 
-<h3 align="left">🌟 Highlights:</h3>
+<h2 align="left">🌟 Highlights:</h2>
 
 ###  
 
-<p align="left">
+<p align="left" style="font-size: 18px;">
 🔭 I’m currently working on my major project and developing my own framework.<br>
 🌱 Currently learning React and Node.js.<br>
 💬 Ask me about problem-solving and logic building.<br>
@@ -31,7 +31,7 @@
 
 ###  
 
-<h3 align="left">🛠️ Technologies & Tools:</h3>
+<h2 align="left">🛠️ Technologies & Tools:</h2>
 
 ###  
 
@@ -71,7 +71,7 @@
 
 ###  
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###  
 
